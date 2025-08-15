@@ -51,14 +51,10 @@ Verification Results: {verification_results}
 Final Report:
 """
 
-# =========================================
-# LangChain-based chain builders (optional)
-# =========================================
-
 def get_initial_response_chain():
     """Chain for generating initial assessment."""
     template = INITIAL_RESPONSE_TEMPLATE
-    return template  # Raw template, Groq handles formatting
+    return template 
 
 def get_assumption_extraction_chain(llm):
     """Chain for extracting verifiable assumptions."""

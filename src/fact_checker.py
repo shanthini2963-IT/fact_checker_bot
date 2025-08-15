@@ -29,9 +29,8 @@ class FactChecker:
         """
         self.client = Groq(api_key=groq_api_key)
         self.search_tool = WebSearchTool(api_key=search_api_key)
-        self.model = "openai/gpt-oss-20b"  # Groq's fastest model
+        self.model = "openai/gpt-oss-20b"  
 
-        # Credibility scoring
         self.domain_scores = {
             '.gov': 0.9, '.edu': 0.85, '.org': 0.8,
             '.com': 0.7, '.net': 0.6, 'other': 0.5
@@ -56,19 +55,14 @@ class FactChecker:
             if not validate_claim(claim):
                 return {"error": "Invalid claim", "status": "error"}
 
-            # Step 1: Initial response
             initial = self._get_initial_response(claim)
             
-            # Step 2: Extract assumptions
             assumptions = self._extract_assumptions(initial)
             
-            # Step 3: Verify assumptions
             verification = self._verify_assumptions(assumptions)
             
-            # Step 4: Final synthesis
             final = self._synthesize_final(claim, initial, verification)
             
-            # Step 5: Classify claim
             claim_type = self._classify_claim(claim)
 
             return {
@@ -115,17 +109,14 @@ class FactChecker:
         
         for assumption in assumptions:
             try:
-                # Get evidence
                 evidence = self.search_tool.search(assumption)
                 
-                # Analyze
                 prompt = VERIFICATION_TEMPLATE.format(
                     assumption=assumption,
                     evidence=evidence
                 )
                 analysis = self._query_groq(prompt)
                 
-                # Parse verdict (e.g., "Verdict: True")
                 verdict = "Uncertain"
                 if "Verdict:" in analysis:
                     verdict = analysis.split("Verdict:")[1].split("\n")[0].strip()
@@ -155,7 +146,6 @@ class FactChecker:
         )
         result = self._query_groq(prompt)
         
-        # Parse structured response
         return {
             "verdict": self._parse_verdict(result),
             "summary": result,

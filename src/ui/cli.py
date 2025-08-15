@@ -20,7 +20,7 @@ def display_result(result):
         print(f"  Reasoning: {details['reasoning']}")
         
         print("  Sources:")
-        for i, source in enumerate(details['sources'][:2], 1):  # Show top 2
+        for i, source in enumerate(details['sources'][:2], 1): 
             print(f"    {i}. {source['title']}")
             print(f"       {source['url']}")
 

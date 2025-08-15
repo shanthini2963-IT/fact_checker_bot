@@ -1,6 +1,6 @@
 langchain>=0.1.0
 langchain-community>=0.0.10
-groq>=0.3.0  # Add Groq package
+groq>=0.3.0 
 python-dotenv>=1.0.0
 streamlit>=1.25.0
-duckduckgo-search>=3.8.5  # Keep for web search fallback
+duckduckgo-search>=3.8.5  

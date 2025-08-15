@@ -72,9 +72,8 @@ def clean_text(text: str) -> str:
     if not isinstance(text, str):
         return ""
         
-    # Basic cleaning
     text = text.strip()
-    text = ' '.join(text.split())  # Remove extra whitespace
+    text = ' '.join(text.split())  
     return text
 
 def calculate_credibility(sources: List[Dict[str, Any]]) -> float:

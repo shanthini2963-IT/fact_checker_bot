@@ -1,7 +1,7 @@
 from typing import List, Dict, Optional
 import requests
 from bs4 import BeautifulSoup
-from duckduckgo_search import DDGS  # Updated import for v8.x
+from duckduckgo_search import DDGS  
 from .utils import log_error
 
 class WebSearchTool:
