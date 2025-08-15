@@ -1,0 +1,127 @@
+2025-08-15 14:20:09,323 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-15 14:26:52,736 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-08-15 14:29:21,045 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-08-15 14:31:47,330 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-15 14:33:40,286 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 14:33:40,957 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 14:33:41,423 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+is+not+visible+from+the+Moon. 200
+2025-08-15 14:33:42,517 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 14:33:42,803 - primp - INFO - response: https://www.bing.com/search?q=-+The+width+of+the+Great+Wall+of+China+is+only+a+few+meters. 200
+2025-08-15 14:33:43,044 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 14:33:43,358 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+is+far+too+small+to+be+seen+from+lunar+distances. 200
+2025-08-15 14:33:43,781 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 14:33:44,169 - primp - INFO - response: https://www.bing.com/search?q=-+The+Moon%E2%80%99s+distance+from+Earth+is+approximately+384%2C000%E2%80%AFkm. 200
+2025-08-15 14:33:44,586 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 14:33:45,186 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+would+be+indiscernible+from+lunar+distances. 200
+2025-08-15 14:33:45,521 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 14:33:46,429 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 14:33:46,636 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:00,773 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:01,406 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:01,838 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+is+not+visible+from+the+Moon. 200
+2025-08-15 15:13:02,455 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:02,751 - primp - INFO - response: https://www.bing.com/search?q=-+The+width+of+the+Great+Wall+of+China+is+only+a+few+meters. 200
+2025-08-15 15:13:03,073 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:03,375 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+is+far+too+small+to+be+seen+from+lunar+distances. 200
+2025-08-15 15:13:03,809 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:04,054 - primp - INFO - response: https://www.bing.com/search?q=-+The+Moon%E2%80%99s+distance+from+Earth+is+approximately+384%2C000%E2%80%AFkm. 200
+2025-08-15 15:13:04,915 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:05,271 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+would+be+indiscernible+from+lunar+distances. 200
+2025-08-15 15:13:05,688 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:05,742 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 15:13:05,742 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-15 15:13:08,905 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:13:09,009 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 15:13:09,012 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-08-15 15:13:16,358 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:23,742 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:24,383 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:24,707 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+is+not+visible+from+the+Moon. 200
+2025-08-15 15:18:25,313 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:25,578 - primp - INFO - response: https://www.bing.com/search?q=-+The+width+of+the+Great+Wall+of+China+is+only+a+few+meters. 200
+2025-08-15 15:18:25,898 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:26,177 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+is+far+too+small+to+be+seen+from+lunar+distances. 200
+2025-08-15 15:18:27,676 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+is+far+too+small+to+be+seen+from+lunar+distances.&first=11&FORM=PERE 200
+2025-08-15 15:18:28,090 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:28,493 - primp - INFO - response: https://www.bing.com/search?q=-+The+Moon%E2%80%99s+distance+from+Earth+is+approximately+384%2C000%E2%80%AFkm. 200
+2025-08-15 15:18:28,806 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:29,026 - primp - INFO - response: https://www.bing.com/search?q=-+The+Great+Wall+of+China+would+be+indiscernible+from+lunar+distances. 200
+2025-08-15 15:18:29,401 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:29,457 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 15:18:29,457 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-08-15 15:18:32,658 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:18:32,784 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 15:18:32,784 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-08-15 15:18:40,174 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:15,100 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:15,524 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:15,835 - primp - INFO - response: https://www.bing.com/search?q=The+Sun+is+a+star. 200
+2025-08-15 15:21:16,234 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:16,984 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:17,133 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:37,519 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:37,982 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:38,234 - primp - INFO - response: https://www.bing.com/search?q=-+Sharks+are+cartilaginous+fish. 200
+2025-08-15 15:21:38,587 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:38,862 - primp - INFO - response: https://www.bing.com/search?q=-+Sharks+are+not+mammals. 200
+2025-08-15 15:21:39,701 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:40,388 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:21:40,602 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:23:41,638 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:23:42,302 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:23:42,658 - primp - INFO - response: https://www.bing.com/search?q=Cats+sleep+regularly. 200
+2025-08-15 15:23:42,986 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:23:43,290 - primp - INFO - response: https://www.bing.com/search?q=Cats+average+12%E2%80%9316%E2%80%AFhours+of+rest+per+day. 200
+2025-08-15 15:23:43,632 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:23:44,421 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:23:44,609 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:11,863 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:12,264 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:12,546 - primp - INFO - response: https://www.bing.com/search?q=-+Coffee+can+exhibit+sour+or+acidic+notes. 200
+2025-08-15 15:25:12,908 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:13,165 - primp - INFO - response: https://www.bing.com/search?q=-+Coffee+can+exhibit+sour+or+acidic+notes+especially+in+light+roasts. 200
+2025-08-15 15:25:13,595 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:13,889 - primp - INFO - response: https://www.bing.com/search?q=-+Coffee+can+exhibit+sour+or+acidic+notes+in+certain+bean+varieties. 200
+2025-08-15 15:25:14,219 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:14,463 - primp - INFO - response: https://www.bing.com/search?q=-+Coffee+can+exhibit+sour+or+acidic+notes+due+to+improper+brewing. 200
+2025-08-15 15:25:14,921 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:15,197 - primp - INFO - response: https://www.bing.com/search?q=-+Coffee+is+not+inherently+sour. 200
+2025-08-15 15:25:15,531 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:15,833 - primp - INFO - response: https://www.bing.com/search?q=-+Coffee%27s+flavor+profile+varies+widely. 200
+2025-08-15 15:25:16,666 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:16,763 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 15:25:16,763 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+2025-08-15 15:25:28,848 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:25:28,949 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 15:25:28,955 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2025-08-15 15:25:34,234 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:11,691 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:12,015 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:12,371 - primp - INFO - response: https://www.bing.com/search?q=A+typical+cat+has+four+legs. 200
+2025-08-15 15:27:12,687 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:13,370 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:13,605 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:55,567 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:56,057 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:56,598 - primp - INFO - response: https://www.bing.com/search?q=-+Spiders+have+eight+legs. 200
+2025-08-15 15:27:56,922 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:57,228 - primp - INFO - response: https://www.bing.com/search?q=-+Spiders+do+not+have+ten+legs. 200
+2025-08-15 15:27:57,742 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:58,245 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:27:58,460 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:28:33,890 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:28:34,199 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:28:34,604 - primp - INFO - response: https://www.bing.com/search?q=-+Spiders+are+arachnids. 200
+2025-08-15 15:28:35,112 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:28:35,378 - primp - INFO - response: https://www.bing.com/search?q=-+Spiders+characteristically+possess+eight+legs. 200
+2025-08-15 15:28:35,742 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:28:36,577 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:28:36,757 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:29:08,806 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:29:09,317 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:29:09,628 - primp - INFO - response: https://www.bing.com/search?q=-+Spiders+have+eight+legs. 200
+2025-08-15 15:29:10,094 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:29:10,409 - primp - INFO - response: https://www.bing.com/search?q=-+Spiders+do+not+have+ten+legs. 200
+2025-08-15 15:29:10,850 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:29:11,569 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 15:29:11,787 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
