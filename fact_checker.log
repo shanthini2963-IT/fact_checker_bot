@@ -125,3 +125,111 @@
 2025-08-15 15:29:10,850 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-08-15 15:29:11,569 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-08-15 15:29:11,787 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:01:58,433 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:01:59,517 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:01:59,916 - primp - INFO - response: https://www.bing.com/search?q=Cats+have+four+paws. 200
+2025-08-15 16:02:00,166 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:02:00,349 - primp - INFO - response: https://www.bing.com/search?q=Cats+do+not+possess+hands. 200
+2025-08-15 16:02:00,750 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:02:01,403 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:02:01,633 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:03:12,307 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:03:12,688 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:03:12,954 - primp - INFO - response: https://www.bing.com/search?q=Cats+cannot+talk+in+the+human+sense. 200
+2025-08-15 16:03:13,336 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:03:13,537 - primp - INFO - response: https://www.bing.com/search?q=Cats+communicate+through+meows%2C+purrs%2C+body+language%2C+and+other+non%E2%80%91verbal+signals. 200
+2025-08-15 16:03:13,971 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:03:14,188 - primp - INFO - response: https://www.bing.com/search?q=Cats+do+not+produce+intelligible+human+speech. 200
+2025-08-15 16:03:14,585 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:03:15,270 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:03:15,538 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:16,544 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:17,052 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:17,318 - primp - INFO - response: https://www.bing.com/search?q=Cats+do+not+have+hands. 200
+2025-08-15 16:07:17,785 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:17,985 - primp - INFO - response: https://www.bing.com/search?q=Cats+have+paws. 200
+2025-08-15 16:07:18,767 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:18,970 - primp - INFO - response: https://www.bing.com/search?q=Cats+have+digitated+feet. 200
+2025-08-15 16:07:19,219 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:19,437 - primp - INFO - response: https://www.bing.com/search?q=Cats+have+claws. 200
+2025-08-15 16:07:19,786 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:19,986 - primp - INFO - response: https://www.bing.com/search?q=Cats+do+not+have+human%E2%80%91like+hands. 200
+2025-08-15 16:07:20,818 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:21,570 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:07:21,752 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:09:09,620 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:09:09,984 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:09:10,290 - primp - INFO - response: https://www.bing.com/search?q=-+Cats+do+not+have+hands. 200
+2025-08-15 16:09:10,707 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:09:10,940 - primp - INFO - response: https://www.bing.com/search?q=-+Cats+have+paws. 200
+2025-08-15 16:09:11,274 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:09:11,676 - primp - INFO - response: https://www.bing.com/search?q=-+Cats%E2%80%99+paws+have+claws. 200
+2025-08-15 16:09:12,558 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:09:13,258 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 16:09:13,442 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:01:54,176 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:01:55,300 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:01:55,704 - primp - INFO - response: https://www.bing.com/search?q=-+The+Sun+is+a+star. 200
+2025-08-15 17:01:56,147 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:01:56,429 - primp - INFO - response: https://www.bing.com/search?q=-+The+Sun+is+a+G%E2%80%91type+main%E2%80%91sequence+star. 200
+2025-08-15 17:01:56,830 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:01:57,100 - primp - INFO - response: https://www.bing.com/search?q=-+The+Sun+is+classified+as+G2V. 200
+2025-08-15 17:01:57,447 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:01:57,712 - primp - INFO - response: https://www.bing.com/search?q=-+The+Sun+emits+energy+through+nuclear+fusion+in+its+core. 200
+2025-08-15 17:01:58,163 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:01:58,846 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:01:59,029 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:12,931 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:13,981 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:14,264 - primp - INFO - response: https://www.bing.com/search?q=Cats+have+four+paws. 200
+2025-08-15 17:02:14,548 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:14,963 - primp - INFO - response: https://www.bing.com/search?q=Cats+do+not+possess+hands. 200
+2025-08-15 17:02:15,568 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:16,281 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:16,514 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:37,277 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:37,683 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:38,100 - primp - INFO - response: https://www.bing.com/search?q=-+Humans+require+oxygen+for+cellular+respiration. 200
+2025-08-15 17:02:38,683 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:38,983 - primp - INFO - response: https://www.bing.com/search?q=-+Humans+must+breathe+to+survive. 200
+2025-08-15 17:02:39,353 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:39,433 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 17:02:39,433 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-08-15 17:02:46,400 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:02:46,498 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 17:02:46,498 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2025-08-15 17:02:52,033 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:03:04,483 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:03:05,136 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:03:05,434 - primp - INFO - response: https://www.bing.com/search?q=The+Sun+is+a+star. 200
+2025-08-15 17:03:05,551 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 17:03:05,551 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 1.000000 seconds
+2025-08-15 17:03:07,184 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:03:07,585 - primp - INFO - response: https://www.bing.com/search?q=The+preliminary+answer+is+true. 200
+2025-08-15 17:03:07,699 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 17:03:07,700 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-08-15 17:03:14,652 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:03:14,734 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 17:03:14,750 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2025-08-15 17:03:28,785 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:03:28,856 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 17:03:28,856 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2025-08-15 17:03:34,171 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:04:07,188 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:04:08,104 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:04:08,420 - primp - INFO - response: https://www.bing.com/search?q=The+Moon%E2%80%99s+surface+is+composed+of+silicate+rocks+and+basalt. 200
+2025-08-15 17:04:09,755 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:04:09,987 - primp - INFO - response: https://www.bing.com/search?q=The+Moon%E2%80%99s+surface+reflects+sunlight. 200
+2025-08-15 17:04:11,488 - primp - INFO - response: https://www.bing.com/search?q=The+Moon%E2%80%99s+surface+reflects+sunlight.&first=11&FORM=PERE 200
+2025-08-15 17:04:12,106 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:04:12,488 - primp - INFO - response: https://www.bing.com/search?q=From+Earth+the+Moon+appears+pale+gray%2Fwhite. 200
+2025-08-15 17:04:13,988 - primp - INFO - response: https://www.bing.com/search?q=From+Earth+the+Moon+appears+pale+gray%2Fwhite.&first=11&FORM=PERE 200
+2025-08-15 17:04:14,588 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:04:14,922 - primp - INFO - response: https://www.bing.com/search?q=The+Moon+is+not+black. 200
+2025-08-15 17:04:15,372 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:04:15,488 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 17:04:15,490 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+2025-08-15 17:04:27,356 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-15 17:04:27,456 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-15 17:04:27,471 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2025-08-15 17:04:32,172 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
